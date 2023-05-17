@@ -23,7 +23,7 @@ function Footer() {
                 <div className="footer-socialmedia" >
                     <div className="footer-socialmedia--item" >
                         
-                        <a href="https://github.com/NicoLeo455"  target="_blank" >
+                        <a href="https://github.com/S3bastianUriel"  target="_blank" >
                             <img src={github} className="" alt="socialmedia__icon"/>
                         </a>
 
