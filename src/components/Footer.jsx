@@ -33,7 +33,7 @@ function Footer() {
                     <div className="footer-socialmedia--item">
                         
 
-                        <a href="https://platzi.com/p/zymax777/"  target="_blank" >                    
+                        <a href="https://platzi.com/p/sebastianuriel/"  target="_blank" >                    
                             <img src={platzi} alt="socialmedia__icon"/>
                         </a>
 
@@ -41,7 +41,7 @@ function Footer() {
                     </div>
 
                     <div className="footer-socialmedia--item">
-                        <a href="https://www.linkedin.com/in/nicolas-santiva%C3%B1ez-/"  target="_blank" >
+                        <a href="https://www.linkedin.com/in/sebastian-uriel-santivanez/"  target="_blank" >
                             <img src={linkedin} alt="socialmedia__icon" />
                         </a>
 

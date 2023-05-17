@@ -59,7 +59,7 @@ const Home = () => {
                 <div className="profile-socialmedia">
                     <div className="profile-socialmedia--item">
                         <div className="profile-socialmedia--logo">      
-                            <a href=""  target="_blank" >
+                            <a href="https://github.com/S3bastianUriel"  target="_blank" >
                                 <img src={github} className="profile-socialmedia--icon" alt="socialmedia__icon"/>
                             </a>
                         </div>
@@ -68,7 +68,7 @@ const Home = () => {
 
                     <div className="profile-socialmedia--item">
                         <div className="profile-socialmedia--logo">      
-                            <a href=""  target="_blank" >
+                            <a href="https://www.linkedin.com/in/sebastian-uriel-santivanez/"  target="_blank" >
                                 <img src={linkedin} className="profile-socialmedia--icon" alt="socialmedia__icon"/>
                             </a>
                         </div>
@@ -77,7 +77,7 @@ const Home = () => {
 
                     <div className="profile-socialmedia--item">
                         <div className="profile-socialmedia--logo">      
-                            <a href=""  target="_blank" >
+                            <a href="https://platzi.com/p/sebastianuriel/"  target="_blank" >
                                 <img src={platzi} className="profile-socialmedia--icon" alt="socialmedia__icon"/>
                             </a>
                         </div>
