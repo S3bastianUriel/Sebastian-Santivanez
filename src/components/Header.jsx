@@ -42,8 +42,8 @@ function Header() {
                     <ul className="header__routes--list">
                     {/* <ul> */}
                         <a href="/"  >Home</a>
-                        <a href="/https://sebastiansantivanez-aboutme.netlify.app/" >About me</a>
-                        <a href="/https://sebastiansantivanez-projects.netlify.app/" >Projects</a>
+                        <a href="https://sebastiansantivanez-aboutme.netlify.app/" >About me</a>
+                        <a href="https://sebastiansantivanez-projects.netlify.app/" >Projects</a>
                     </ul>
                 </div>
             </div>

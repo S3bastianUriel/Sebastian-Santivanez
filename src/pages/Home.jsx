@@ -259,7 +259,7 @@ const Home = () => {
                 <div className="border-button">
                     <div className="button" >
 
-                        <a href="/https://sebastiansantivanez-projects.netlify.app/" className="button-text">More Projects</a>
+                        <a href="https://sebastiansantivanez-projects.netlify.app/" className="button-text">More Projects</a>
 
 
                         {/* <p href="/Projects" className="button-text> More Projects</p> */}
